@@ -12,3 +12,13 @@ Purpose of this Repository: My goal is to document my journey from installing Wa
 This repository will include: -Step-by-step installation instructions -Commands I used to get Wazuh running -Problems I encountered and how I solved them -Screenshots documenting my progress -Future security monitoring and threat detection exercises -Lessons learned along the way
 
 I also want this repository to be useful to other students and beginners who are interested in building their own SOC home lab but aren't sure where to start.
+
+
+
+
+
+
+## Wazuh SOC Home Lab Documentation
+
+- [Guide 01 — Ubuntu VM Setup](01-Ubuntu-VM-Setup/README.md)
+- [Guide 02 — Wazuh SIEM Installation](02-Wazuh-SIEM-Installation/README.md)
