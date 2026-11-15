@@ -20,5 +20,5 @@ I also want this repository to be useful to other students and beginners who are
 
 ## Wazuh SOC Home Lab Documentation
 
-- [Guide 01 — Ubuntu VM Setup](01-Ubuntu-VM-Setup/README.md)
-- [Guide 02 — Wazuh SIEM Installation](02-Wazuh-SIEM-Installation/README.md)
+- [Guide 01 - Ubuntu VM Setup](01-Ubuntu-VM-Setup/README.md)
+- [Guide 02 - Wazuh SIEM Installation](02-Wazuh-SIEM-Installation/README.md)
